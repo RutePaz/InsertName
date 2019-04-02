@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
+        //botão
         submitbt = (Button) findViewById(R.id.submitbt);
         submitbt.setOnClickListener(new View.OnClickListener() {
             @Override
